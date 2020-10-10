@@ -3,7 +3,7 @@
   "version": "0.5.18",
   "description": "A medium like rich text editor built upon draft-js with an emphasis on eliminating mouse usage by adding relevant keyboard shortcuts",
   "main": "lib/index.js",
-  "repository": "https://github.com/brijeshb42/medium-draft",
+  "repository": "https://github.com/StarAzure/medium-draft",
   "scripts": {
     "start": "npm run dev",
     "clean": "rm -f dist/*.js && rm -f dist/*.css && rm -rf lib",
@@ -26,7 +26,7 @@
     "draft-js",
     "wysiwyg"
   ],
-  "author": "Brijesh Bittu <brijeshb42@gmail.com> (http://bitwiser.in/)",
+  "author": "NA",
   "license": "MIT",
   "dependencies": {
     "draft-js": "^0.11.7",
@@ -78,7 +78,7 @@
     "webpack-dev-server": "2.11.3"
   },
   "bugs": {
-    "url": "https://github.com/brijeshb42/medium-draft/issues"
+    "url": "https://github.com/StarAzure/medium-draft/issues"
   },
   "homepage": "http://bitwiser.in/medium-draft/"
 }
